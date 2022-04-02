@@ -1,0 +1,10 @@
+.external{
+    background-color: yellow;
+    color: red;
+    border: 5px solid red; /*solid ,dashed,dotted*/
+    width:300px;
+    height:100px;
+    margin:10px;
+    padding-left: 50px;
+    border-radius: 25px;
+}
